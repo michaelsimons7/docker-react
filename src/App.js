@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to bum bum baby boo. Don't believe it scooby doo!
-          Still not! But why?
+          Still not! But why? And now for something different. 
         </p>
         <p>
           And how about now?
