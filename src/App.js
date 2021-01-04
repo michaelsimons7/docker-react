@@ -8,13 +8,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to bum bum baby boo. Don't believe it scooby doo!
-          Still not! But why? And now for something different. 
+          Edit <code>src/App.js</code> and save to bum bum baby boo. 
+          That was getting a bit silly. But now we're on the feature branch. 
         </p>
-        <p>
-          And how about now?
-        </p>
-        <p>And what about this, eh?</p>
+        
 
         <a
           className="App-link"
